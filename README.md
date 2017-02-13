@@ -1,3 +1,3 @@
 # socket-example
-socket.io example 
-node run.js
+socket.io example <br>
+$ node run.js
